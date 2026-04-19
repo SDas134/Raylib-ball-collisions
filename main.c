@@ -9,7 +9,7 @@
 #define g 100
 #define RADIUS HEIGHT/30
 #define e 0.75 //coefficient of restitution
-#define n 10
+#define n 10  //number of balls
 typedef struct
 {
     double x,y,vx,vy,m;
